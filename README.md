@@ -153,7 +153,7 @@ Then open `http://localhost:8000` in your browser.
 ### Update Contact Information
 
 1. **Phone Numbers** - Search for `+27123456789` and replace throughout
-2. **Email Addresses** - Search for `info@nemafukanilivestock.co.za` and replace
+2. **Email Addresses** - Search for ` matavhelafillingstation@gmail.com` and replace
 3. **Location** - Update "Limpopo, South Africa" references
 4. **WhatsApp Link** - Update `wa.me/27123456789` in all HTML files
 
